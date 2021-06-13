@@ -2,7 +2,7 @@
 
 This is the github repo of team Milkshake 3's documentation from Fundamentals of Engineering Honors Robot Project of SPR 2020 semester.
 
-## Milkshake 3 members with corresponding tasks were:
+## Team "Milkshake 3" members with corresponding tasks were:
 
 Sichan Yoo/Yuh: movement/motor functions & main chassis construction
 Karthick Siva: general coding & supporting chassis construction
@@ -17,7 +17,7 @@ Nathan Schultz: general coding & sensor functions
 
 ## Clips of Robot In Action
 
-Located in "assets" folder (two files with extension ".mov").
+Located in "assets" folder (two files with extension ".mov"). :D
 
 ## Thanks for Visiting!
 
