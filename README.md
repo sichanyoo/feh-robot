@@ -4,9 +4,12 @@ This is the github repo of team Milkshake 3's documentation from Fundamentals of
 
 ## Team "Milkshake 3" members with corresponding tasks were:
 
-Sichan Yoo/Yuh: movement/motor functions & main chassis construction\
-Karthick Siva: general coding & supporting chassis construction\
-Mukund Tarimala: documentation & budget management & project schedule management\
+Sichan Yoo/Yuh: movement/motor functions & main chassis construction
+
+Karthick Siva: general coding & supporting chassis construction
+
+Mukund Tarimala: documentation & budget management & project schedule management
+
 Nathan Schultz: general coding & sensor functions
 
 ## Robot Chassis
